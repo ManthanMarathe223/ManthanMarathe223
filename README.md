@@ -1,57 +1,65 @@
-# 💫 About Me
-- 📚  Currently pursuing a B.Tech in Computer Engineering at Pimpri-Chinchwad College of Engineering Pune
-- 💻 I love working on projects that involve Java
-- 🌱 Always eager to learn new concepts and technologies
-- 🎨 I enjoy the creative side of coding, from design to implementation
+<h1 align="left">Hey 👋 What's up?</h1>
 
-## 🛠 Tech Stack:
+<p align="left">My name is Manthan Marathe and I'm a Tech Enthusiast from Pune, India.</p>
 
-### Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkblue" />
-</p>
+<h2 align="left">About me</h2>
 
-### Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-</p>
+<p align="left">📚 Currently pursuing a B.Tech in Computer Engineering at Pimpri-Chinchwad College of Engineering Pune<br>💻 I love working on projects that involve Java<br>🌱 Always eager to learn new concepts and technologies<br>🎨 I enjoy the creative side of coding, from design to implementation</p>
 
-### Tools & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<h2 align="left">I code with</h2>
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+</div>
 
-### 🤖 Coder Qualities
-- Efficient problem solver who enjoys debugging and optimizing code.
-- Committed to continuous learning and open-source contributions.
-- Passionate about building clean, maintainable, and scalable applications.
+<h2 align="left">My stats</h2>
 
-## 📫 Connect with Me
-<p align="left">
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" />
-  </a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ManthanMarathe223&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
+</div>
+
+<h2 align="left">Social</h2>
+
+<div align="center">
   <a href="www.linkedin.com/in/manthanmarathe" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"     height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:marathemanthanofficial@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" />
+  <a href="https://x.com/ManthanMarathe2" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" width="52" height="40" alt="twitter logo"  />
   </a>
-</p>
+  <a href="https://discord.com/users/manthan_on_cloud" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
+<br><br><br>
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+<br><br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManthanMarathe223/ManthanMarathe223/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManthanMarathe223/ManthanMarathe223/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ManthanMarathe223/ManthanMarathe223/output/pacman-contribution-graph.svg">
+</picture>
 
-<hr>
-<p dir="auto">💡 <strong>Fun Fact</strong>: I love solving coding challenges and collaborating with other developers!</p>
