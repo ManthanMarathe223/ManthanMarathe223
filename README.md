@@ -36,7 +36,7 @@
   <img src="https://streak-stats.demolab.com?user=ManthanMarathe223&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
 
-<h2 align="left">Social</h2>
+<h2 align="left">Social Media</h2>
 
 <div align="center">
   <a href="www.linkedin.com/in/manthanmarathe" target="_blank">
